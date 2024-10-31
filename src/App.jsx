@@ -22,6 +22,8 @@ function App() {
           going to build!
         </p>
       </header> */}
+
+      <Header></Header>
       <main>
         <h2>Time to get started!</h2>
       </main>
