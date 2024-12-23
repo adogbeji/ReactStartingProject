@@ -20,6 +20,12 @@ function Header() {
   );
 }
 
+function CoreConcept() {
+  return <li>
+    <img src="..." alt="..." />
+  </li>;
+}
+
 function App() {
   return (
     <div>
