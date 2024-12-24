@@ -23,6 +23,8 @@ function Header() {
 function CoreConcept() {
   return <li>
     <img src="..." alt="..." />
+    <h3>TITLE</h3>
+    <p>DESCRIPTION</p>
   </li>;
 }
 
@@ -31,6 +33,7 @@ function App() {
     <div>
       <Header/>
       <main>
+        <section id="core-concepts"></section>
         <h2>Time to get started!</h2>
       </main>
     </div>
