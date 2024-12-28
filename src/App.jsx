@@ -33,8 +33,14 @@ function App() {
     <div>
       <Header/>
       <main>
-        <section id="core-concepts"></section>
-        <h2>Time to get started!</h2>
+        <section id="core-concepts">
+          <h2>Core Concepts</h2>
+          <CoreConcept/>
+          <CoreConcept/>
+          <CoreConcept/>
+          <CoreConcept/>
+        </section>
+        {/* <h2>Time to get started!</h2> */}
       </main>
     </div>
   );
