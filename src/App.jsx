@@ -35,7 +35,7 @@ function App() {
       <main>
         <section id="core-concepts">
           <h2>Core Concepts</h2>
-          <CoreConcept/>
+          <CoreConcept title="Components" description="The core UI building block."/>
           <CoreConcept/>
           <CoreConcept/>
           <CoreConcept/>
