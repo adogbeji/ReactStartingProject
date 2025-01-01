@@ -21,7 +21,7 @@ function Header() {
   );
 }
 
-function CoreConcept() {
+function CoreConcept(props) {
   return <li>
     <img src="..." alt="..." />
     <h3>TITLE</h3>
