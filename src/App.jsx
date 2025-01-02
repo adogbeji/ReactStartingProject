@@ -23,7 +23,7 @@ function Header() {
 
 function CoreConcept(props) {
   return <li>
-    <img src="..." alt="..." />
+    <img src={props.image} alt="..." />
     <h3>TITLE</h3>
     <p>DESCRIPTION</p>
   </li>;
