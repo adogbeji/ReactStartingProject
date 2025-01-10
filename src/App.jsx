@@ -38,9 +38,9 @@ function App() {
         <section id="core-concepts">
           <h2>Core Concepts</h2>
           <CoreConcept 
-            title="Components" 
-            description="The core UI building block." 
-            img={componentsImg}
+            title={CORE_CONCEPTS[0].title} 
+            description={CORE_CONCEPTS[0].description} 
+            img={CORE_CONCEPTS[0].image}
           />
           <CoreConcept/>
           <CoreConcept/>
